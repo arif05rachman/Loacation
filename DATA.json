@@ -1,0 +1,74 @@
+{
+  "barangs": [
+    {
+      "Kode_Barang": "0173603",
+      "Nama_Barang": "Oronamin C",
+      "Harga_Barang": "5400"
+    },
+    {
+      "Kode_Barang": "0223512",
+      "Nama_Barang": "Sari Roti",
+      "Harga_Barang": 5000
+    },
+    {
+      "Kode_Barang": "0244728",
+      "Nama_Barang": "Dexicon st",
+      "Harga_Barang": 24500
+    },
+    {
+      "Kode_Barang": "0554928",
+      "Nama_Barang": "Nescafe Cl",
+      "Harga_Barang": 5500
+    },
+    {
+      "Kode_Barang": "0642735",
+      "Nama_Barang": "Arirang So",
+      "Harga_Barang": 12000
+    },
+    {
+      "Kode_Barang": "1077040",
+      "Nama_Barang": "3k gel pen",
+      "Harga_Barang": 3500
+    },
+    {
+      "Kode_Barang": "3303186",
+      "Nama_Barang": "Binder cli",
+      "Harga_Barang": 8000
+    },
+    {
+      "Kode_Barang": "3492348",
+      "Nama_Barang": "Oreo Mini",
+      "Harga_Barang": 7300
+    },
+    {
+      "Kode_Barang": "4399299",
+      "Nama_Barang": "Sunlight R",
+      "Harga_Barang": 15300
+    },
+    {
+      "Kode_Barang": "4852592",
+      "Nama_Barang": "Clear Men",
+      "Harga_Barang": 43300
+    },
+    {
+      "Kode_Barang": "5483349",
+      "Nama_Barang": "Roma Malki",
+      "Harga_Barang": 6300
+    },
+    {
+      "Kode_Barang": "6739234",
+      "Nama_Barang": "Bango Keca",
+      "Harga_Barang": 20390
+    },
+    {
+      "Kode_Barang": "8431293",
+      "Nama_Barang": "Min Maid N",
+      "Harga_Barang": 5700
+    },
+    {
+      "Kode_Barang": "9342923",
+      "Nama_Barang": "Blue Band",
+      "Harga_Barang": 11500
+    }
+  ]
+}
