@@ -1,3 +1,4 @@
-export const API_BASE_URL = "http://localhost:4000/";
+export const API_BASE_URL =
+  "https://backend-dot-capstone-386902.et.r.appspot.com/";
 
-export const BARANGS_URL = API_BASE_URL + "barangs";
+export const LOCATIONS_URL = API_BASE_URL + "locations";

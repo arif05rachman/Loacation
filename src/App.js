@@ -3,11 +3,17 @@ import { BrowserRouter } from "react-router-dom";
 import { AppProvider } from "./context/AppContext";
 import Router from "./routes";
 
-import Home from "./Pages/Home";
-import Login from "./Pages/Login";
-import NotFound from "./Pages/NotFound";
+import Home from "./pages/Home";
+import Login from "./pages/Login";
+import NotFound from "./pages/NotFound";
+import Location from "./pages/Location";
 
-export const listRoutes = [{ ...Home }, { ...Login }, { ...NotFound }];
+export const listRoutes = [
+  { ...Home },
+  { ...Location },
+  { ...Login },
+  { ...NotFound },
+];
 
 // params req, res, store
 export const getInitialData = () => {

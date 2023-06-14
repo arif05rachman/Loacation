@@ -14,10 +14,23 @@ export const utilities = injectGlobal`
   
   .site-layout .site-layout-background {
     background: #fff;
+    padding: 1rem;
+    border-radius: 0.2rem;
   }
 
   .sider-background{
     background: #0099ff !important;
+  }
+
+  .container-content{
+    background: #fff;
+    padding: 1rem;
+    border-radius: 0.2rem;
+    margin-bottom: 1rem;
+  }
+
+  .m-1{
+    margin: 0.1rem;
   }
 
   .loading-loader {

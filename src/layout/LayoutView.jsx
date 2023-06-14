@@ -47,10 +47,8 @@ const LayoutView = ({ children }) => {
           <AccountView />
         </Header>
         <Content
-          className="site-layout-background"
           style={{
-            margin: "24px 16px",
-            padding: 24,
+            padding: "1rem",
             minHeight: 280,
           }}
         >
